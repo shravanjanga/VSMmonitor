@@ -5,9 +5,9 @@ The Vital Sign Monitoring System is designed to address the critical need for ac
 Project Overview
 The Vital Sign Monitoring System consists of two separate devices connected via Bluetooth Low Energy (BLE). The hardware board, equipped with a range of sensors and a microcontroller, measures vital signs, while a mobile or PC application collects and displays this information in a user-friendly interface.
 
-Key Components
-Microcontroller
-  Silicon Labs EFR32BG13P732F512GM48-D
+**Key Components
+**Microcontroller
+  Silicon Labs **EFR32BG13P732F512GM48-D**
     Arm Cortex M-4
     512 kB Flash
     64 Kb RAM
